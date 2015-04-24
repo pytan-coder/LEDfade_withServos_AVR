@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1425887317 source:c:\users\core i5\desktop\micro_complete\fuse.c
+	<avr/io.h>
+
+1426144367 source:c:\users\core i5\desktop\micro_complete\main.c
+	<avr/io.h>
+	<util/delay.h>
+
